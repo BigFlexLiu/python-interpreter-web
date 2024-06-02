@@ -55,7 +55,7 @@ const App: React.FC = () => {
         />
       </div>
       <div className="flex flex-col bg-blue w-full" style={{ minWidth: "50vw" }}>
-        <h1 className="text-xl font-bold my-0 flex items-center p-2 bg-blue-950 text-white" style={{ minHeight: "50px", maxHeight: "50px"}}>Output</h1>
+        <h1 className="text-xl font-bold my-0 flex items-center p-2 bg-blue-950 text-white" style={{ minHeight: "50px", maxHeight: "50px" }}>Output</h1>
         <pre className="flex-1 min-w-full overflow-auto p-4 text-white" style={{ backgroundColor: "#1e1e1e" }}>
           {isRunning ? "Running ..." : isSubmitting ? "Submitting ..." : output}</pre>
       </div>
