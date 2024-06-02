@@ -22,3 +22,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# python
+venv/
+__pycache__
+
+# frontend
+node_modules
+.vite
+*.lock
+
+
+note_to_self.md
