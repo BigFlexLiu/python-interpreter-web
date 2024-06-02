@@ -1,2 +1,5 @@
 scipy
 pandas
+fastapi
+pydantic
+sqlalchemy
