@@ -1,5 +1,3 @@
-Great, thank you for providing the additional details. Here's the updated README file with the information you've provided:
-
 ---
 
 # Python Interpreter Web
